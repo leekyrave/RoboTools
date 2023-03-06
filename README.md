@@ -1,1 +1,1 @@
-"# RoboTools" 
+The admin script, which has been developed since the summer of 2021, after which it was sold to the Robo Tools project, at the moment the code has no value, because it most likely will not work.
