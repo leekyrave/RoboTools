@@ -38,3 +38,8 @@ Robotools is a universal assistant for the administration of the Arizona RP proj
  GEOIP, system of similar reports, etc.
 
  Below is a video and photo demonstration of the functions.
+
+Links:
+Blasthack: https://www.blast.hk/threads/170182/
+Youtube Demonstration (Youtuber, who was playing with the app): https://youtu.be/0QmoZu71-nM?si=i1jHWZXER-7Ztuqg
+Images: https://imgur.com/a/6kkYm3D
